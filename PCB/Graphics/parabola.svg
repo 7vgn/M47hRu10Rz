@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="94"
+   height="236"
+   viewBox="0 0 94 236"
+   version="1.1"
+   id="svg58"
+   sodipodi:docname="parabola.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs62" />
+  <sodipodi:namedview
+     id="namedview60"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.3516949"
+     inkscape:cx="46.303797"
+     inkscape:cy="118"
+     inkscape:window-width="2560"
+     inkscape:window-height="1360"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg58" />
+  <title
+     id="title2">Gnuplot</title>
+  <desc
+     id="desc4">Produced by GNUPLOT 6.0 patchlevel 0 </desc>
+  <g
+     id="gnuplot_canvas"
+     style="stroke-width:5.66929134;stroke-dasharray:none">
+    <rect
+       x="0"
+       y="0"
+       width="94"
+       height="236"
+       fill="none"
+       id="rect6"
+       style="stroke-width:5.66929134;stroke-dasharray:none" />
+    <defs
+       id="defs34">
+      <circle
+         id="gpDot"
+         r="0.5"
+         stroke-width="0.5"
+         stroke="currentColor" />
+      <path
+         id="gpPt0"
+         stroke-width="0.222"
+         stroke="currentColor"
+         d="M-1,0 h2 M0,-1 v2" />
+      <path
+         id="gpPt1"
+         stroke-width="0.222"
+         stroke="currentColor"
+         d="M-1,-1 L1,1 M1,-1 L-1,1" />
+      <path
+         id="gpPt2"
+         stroke-width="0.222"
+         stroke="currentColor"
+         d="M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1" />
+      <rect
+         id="gpPt3"
+         stroke-width="0.222"
+         stroke="currentColor"
+         x="-1"
+         y="-1"
+         width="2"
+         height="2" />
+      <rect
+         id="gpPt4"
+         stroke-width="0.222"
+         stroke="currentColor"
+         fill="currentColor"
+         x="-1"
+         y="-1"
+         width="2"
+         height="2" />
+      <circle
+         id="gpPt5"
+         stroke-width="0.222"
+         stroke="currentColor"
+         cx="0"
+         cy="0"
+         r="1" />
+      <use
+         xlink:href="#gpPt5"
+         id="gpPt6"
+         fill="currentColor"
+         stroke="none" />
+      <path
+         id="gpPt7"
+         stroke-width="0.222"
+         stroke="currentColor"
+         d="M0,-1.33 L-1.33,0.67 L1.33,0.67 z" />
+      <use
+         xlink:href="#gpPt7"
+         id="gpPt8"
+         fill="currentColor"
+         stroke="none" />
+      <use
+         xlink:href="#gpPt7"
+         id="gpPt9"
+         stroke="currentColor"
+         transform="rotate(180)" />
+      <use
+         xlink:href="#gpPt9"
+         id="gpPt10"
+         fill="currentColor"
+         stroke="none" />
+      <use
+         xlink:href="#gpPt3"
+         id="gpPt11"
+         stroke="currentColor"
+         transform="rotate(45)" />
+      <use
+         xlink:href="#gpPt11"
+         id="gpPt12"
+         fill="currentColor"
+         stroke="none" />
+      <path
+         id="gpPt13"
+         stroke-width="0.222"
+         stroke="currentColor"
+         d="M0,1.330 L1.265,0.411 L0.782,-1.067 L-0.782,-1.076 L-1.265,0.411 z" />
+      <use
+         xlink:href="#gpPt13"
+         id="gpPt14"
+         fill="currentColor"
+         stroke="none" />
+      <filter
+         id="textbox"
+         filterUnits="objectBoundingBox"
+         x="0"
+         y="0"
+         height="1"
+         width="1">
+        <feFlood
+           flood-color="white"
+           flood-opacity="1"
+           result="bgnd"
+           id="feFlood24" />
+        <feComposite
+           in="SourceGraphic"
+           in2="bgnd"
+           operator="atop"
+           id="feComposite26" />
+      </filter>
+      <filter
+         id="greybox"
+         filterUnits="objectBoundingBox"
+         x="0"
+         y="0"
+         height="1"
+         width="1">
+        <feFlood
+           flood-color="lightgrey"
+           flood-opacity="1"
+           result="grey"
+           id="feFlood29" />
+        <feComposite
+           in="SourceGraphic"
+           in2="grey"
+           operator="atop"
+           id="feComposite31" />
+      </filter>
+    </defs>
+    <g
+       fill="none"
+       color="white"
+       stroke="black"
+       stroke-width="5.00"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g36"
+       style="stroke-width:5.66929134;stroke-dasharray:none" />
+    <g
+       fill="none"
+       color="black"
+       stroke="currentColor"
+       stroke-width="5.00"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g38"
+       style="stroke-width:5.66929134;stroke-dasharray:none" />
+    <g
+       fill="none"
+       color="black"
+       stroke="currentColor"
+       stroke-width="5.00"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g40"
+       style="stroke-width:5.66929134;stroke-dasharray:none" />
+    <g
+       id="gnuplot_plot_1"
+       style="stroke-width:5.66929134;stroke-dasharray:none">
+      <title
+         id="title42">x*x</title>
+      <g
+         fill="none"
+         color="black"
+         stroke="currentColor"
+         stroke-width="5.00"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="g46"
+         style="stroke-width:5.66929134;stroke-dasharray:none">
+        <path
+           stroke="rgb(148,   0, 211)"
+           d="M0.00,236.00 L0.95,235.98 L1.90,235.90 L2.85,235.78 L3.80,235.61 L4.75,235.40 L5.70,235.13 L6.65,234.82   L7.60,234.46 L8.54,234.05 L9.49,233.59 L10.44,233.09 L11.39,232.53 L12.34,231.93 L13.29,231.28 L14.24,230.58   L15.19,229.84 L16.14,229.04 L17.09,228.20 L18.04,227.31 L18.99,226.37 L19.94,225.38 L20.89,224.35 L21.84,223.26   L22.79,222.13 L23.73,220.95 L24.68,219.72 L25.63,218.45 L26.58,217.12 L27.53,215.75 L28.48,214.33 L29.43,212.86   L30.38,211.34 L31.33,209.78 L32.28,208.17 L33.23,206.50 L34.18,204.79 L35.13,203.04 L36.08,201.23 L37.03,199.38   L37.98,197.47 L38.93,195.52 L39.87,193.53 L40.82,191.48 L41.77,189.38 L42.72,187.24 L43.67,185.05 L44.62,182.81   L45.57,180.52 L46.52,178.19 L47.47,175.80 L48.42,173.37 L49.37,170.89 L50.32,168.36 L51.27,165.79 L52.22,163.16   L53.17,160.49 L54.12,157.77 L55.06,155.00 L56.01,152.18 L56.96,149.32 L57.91,146.41 L58.86,143.44 L59.81,140.43   L60.76,137.38 L61.71,134.27 L62.66,131.12 L63.61,127.91 L64.56,124.66 L65.51,121.36 L66.46,118.02 L67.41,114.62   L68.36,111.18 L69.31,107.69 L70.26,104.15 L71.20,100.56 L72.15,96.92 L73.10,93.24 L74.05,89.51 L75.00,85.73   L75.95,81.90 L76.90,78.02 L77.85,74.10 L78.80,70.13 L79.75,66.10 L80.70,62.04 L81.65,57.92 L82.60,53.75   L83.55,49.54 L84.50,45.28 L85.45,40.97 L86.39,36.61 L87.34,32.20 L88.29,27.75 L89.24,23.25 L90.19,18.69   L91.14,14.10 L92.09,9.45 L93.04,4.75 L93.99,0.01  "
+           id="path44"
+           style="stroke-width:5.66929134;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       fill="none"
+       color="white"
+       stroke="rgb(148,   0, 211)"
+       stroke-width="10.00"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g49"
+       style="stroke-width:5.66929134;stroke-dasharray:none" />
+    <g
+       fill="none"
+       color="black"
+       stroke="currentColor"
+       stroke-width="10.00"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g51"
+       style="stroke-width:5.66929134;stroke-dasharray:none" />
+    <g
+       fill="none"
+       color="black"
+       stroke="black"
+       stroke-width="5.00"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g53"
+       style="stroke-width:5.66929134;stroke-dasharray:none" />
+    <g
+       fill="none"
+       color="black"
+       stroke="currentColor"
+       stroke-width="5.00"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g55"
+       style="stroke-width:5.66929134;stroke-dasharray:none" />
+  </g>
+</svg>

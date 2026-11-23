@@ -1,0 +1,20 @@
+Getting exact shapes into KiCAD is slightly complicated. 
+This file explains the workflow.
+
+1) Function graphs (parabola, hyperbola)
+1.1) Create .svg files with gnuplot: gnuplot <file>.plt
+1.2) Use Inkscape to make the stroke width 1.5mm (It should be possible to do this with gnuplot but no idea how.)
+1.3) Import graphics into KiCAD, ungroup, move to correct position
+1.4) Create Polygon from Selection, Create Bounding Hull
+1.5) Create Lines from Selection, then manually remove unwanted segments
+
+2) Geometry created inside KiCAD (Penrose tiles)
+2.1) Create a line (using Start/Angle/Length)
+2.2) Create outsets from Selection: 0.75mm
+2.3) Create Polygon from Selection: Use centerlines
+2.4) Unfill polygon, move to Edge.Cuts if necessary.
+
+3) QR Code
+3.1) Generate SVG e.g. on https://goqr.me/
+3.2) Import into KiCAD, scale 0.3
+3.2) Ungroup, remove background square, group

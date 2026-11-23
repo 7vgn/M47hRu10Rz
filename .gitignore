@@ -1,0 +1,14 @@
+# KiCAD
+**/PCB/*.kicad_prl
+**/PCB/*.xml
+**/PCB/*.bak
+**/PCB/*-backups
+**/PCB/fp-info-cache
+**/PCB/Gerbers/*
+!**/PCB/Gerbers/*.zip
+
+# LaTeX
+**/Doc/*.aux
+**/Doc/*.log
+**/Doc/*.out
+**/Doc/*.toc
